@@ -1,7 +1,4 @@
 .env
 
-.venv/pyvenv.cfg
-.venv/Scripts
-.venv/Lib
-.venv/Include
-.venv/share
+.venv/
+chroma_db/
